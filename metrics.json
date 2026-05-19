@@ -1,0 +1,10 @@
+{
+  "experiment": "scratch_adam",
+  "pretrained": false,
+  "optimizer": "adam",
+  "loss": 4.317308013130244,
+  "accuracy": 0.0655842088506845,
+  "precision": 0.05557667464017868,
+  "recall": 0.060999058187007904,
+  "f1": 0.043220583349466324
+}
