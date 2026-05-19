@@ -170,17 +170,26 @@ Precision, Recall и F1 рассчитаны в **macro-усреднении**: 
 
 ### График 1 — Предобученная RegNet + Adam
 
+<img width="1280" height="568" alt="Model 1" src="https://github.com/user-attachments/assets/7bacbaaf-718b-4b6a-a203-5a7e9f90fefc" />
+
+
 ![Pretrained Adam learning curves](assets/pretrained_adam_learning.png)
 
 У модели с Adam наблюдается быстрый рост качества уже на первых эпохах. Validation F1 достигает высокого уровня к 3-й эпохе и далее остается около плато. К 6-й эпохе validation F1 составляет примерно **0.7939**.
 
 ### График 2 — Предобученная RegNet + RAdam
 
+<img width="1280" height="568" alt="Model 2" src="https://github.com/user-attachments/assets/49831a47-565a-4c24-abdb-92c3e6ce95b1" />
+
+
 ![Pretrained RAdam learning curves](assets/pretrained_radam_learning.png)
 
 Модель с RAdam стартует медленнее, чем Adam, но затем быстро улучшает качество. К 6-й эпохе validation F1 достигает примерно **0.7840**, что близко к результату Adam.
 
 ### График 3 — RegNet с нуля + Adam
+
+<img width="1440" height="640" alt="learning_curves" src="https://github.com/user-attachments/assets/67606f88-58f7-4d67-9350-7a5a99cdfb5b" />
+
 
 ![Scratch Adam learning curves](assets/scratch_adam_learning.png)
 
