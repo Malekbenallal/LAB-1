@@ -56,6 +56,10 @@ Precision, Recall и F1 рассчитаны в **macro-усреднении**: 
 
 Сравнение итоговой функции потерь Loss
 
+<img width="1143" height="657" alt="image" src="https://github.com/user-attachments/assets/b2b90b54-07a3-4b6e-beb2-11eee94cc7df" />
+
+Кривые обучения для эксперимента Pretrained Adam
+
 <img width="1228" height="529" alt="image" src="https://github.com/user-attachments/assets/78c3a887-261e-49c3-9edb-b3c4f55b1d13" />
 
 Кривые обучения для эксперимента Pretrained Adam
