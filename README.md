@@ -60,19 +60,16 @@ Precision, Recall и F1 рассчитаны в **macro-усреднении**: 
 
 Кривые обучения для эксперимента Pretrained Adam
 
-<img width="1228" height="529" alt="image" src="https://github.com/user-attachments/assets/78c3a887-261e-49c3-9edb-b3c4f55b1d13" />
-
-Кривые обучения для эксперимента Pretrained Adam
-
-<img width="1238" height="549" alt="image" src="https://github.com/user-attachments/assets/d6d6353b-6778-4827-a310-940c19f984d4" />
+<img width="1203" height="542" alt="image" src="https://github.com/user-attachments/assets/7738fa14-43f3-48c4-8861-c27e2d98d0cc" />
 
 Кривые обучения для эксперимента Pretrained RAdam
 
-<img width="1251" height="561" alt="image" src="https://github.com/user-attachments/assets/dcb9517d-3b65-4386-8e7e-721f9fc51ebc" />
+<img width="1212" height="550" alt="image" src="https://github.com/user-attachments/assets/6c80873b-86af-4b76-9f76-868561255923" />
 
 Кривые обучения для эксперимента Scratch Adam
 
-<img width="1205" height="558" alt="image" src="https://github.com/user-attachments/assets/3c4f2fad-223c-4bc0-91dc-4bcf687773c8" />
+<img width="1205" height="563" alt="image" src="https://github.com/user-attachments/assets/3973397c-07e6-4939-8237-7df6ed88da46" />
+
 
 
 ## Краткий анализ результатов
